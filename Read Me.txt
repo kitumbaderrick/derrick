@@ -3,3 +3,13 @@ Honey Pot Project ideas
 
 1. 	have a database which has a table that keeps track of logins to the database.
 	table will be called [tracking].
+
+
++++++++++++++++++++++++++++++++++++++++++++
+SQLITE3 CONFIGURATIONS SITES / TUTORIALS:
++++++++++++++++++++++++++++++++++++++++++++
+
+
+https://www.codeproject.com/Articles/746191/SQLite-Helper-Csharp
+
+http://blog.tigrangasparian.com/2012/02/09/getting-started-with-sqlite-in-c-part-one/
