@@ -1,0 +1,15 @@
+c:\users\snappy\desktop\SQLite\Test\Test\bin\Debug\Test.exe.config
+c:\users\snappy\desktop\SQLite\Test\Test\bin\Debug\Test.exe
+c:\users\snappy\desktop\SQLite\Test\Test\bin\Debug\Test.pdb
+c:\users\snappy\desktop\SQLite\Test\Test\bin\Debug\EntityFramework.dll
+c:\users\snappy\desktop\SQLite\Test\Test\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\snappy\desktop\SQLite\Test\Test\bin\Debug\System.Data.SQLite.dll
+c:\users\snappy\desktop\SQLite\Test\Test\bin\Debug\System.Data.SQLite.EF6.dll
+c:\users\snappy\desktop\SQLite\Test\Test\bin\Debug\System.Data.SQLite.Linq.dll
+c:\users\snappy\desktop\SQLite\Test\Test\bin\Debug\EntityFramework.xml
+c:\users\snappy\desktop\SQLite\Test\Test\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\snappy\desktop\SQLite\Test\Test\bin\Debug\System.Data.SQLite.xml
+c:\users\snappy\desktop\SQLite\Test\Test\bin\Debug\System.Data.SQLite.dll.config
+c:\users\snappy\desktop\SQLite\Test\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
+c:\users\snappy\desktop\SQLite\Test\Test\obj\Debug\Test.exe
+c:\users\snappy\desktop\SQLite\Test\Test\obj\Debug\Test.pdb
