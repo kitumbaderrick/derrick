@@ -1,0 +1,5 @@
+Honey Pot Project ideas
+------------------------------------
+
+1. 	have a database which has a table that keeps track of logins to the database.
+	table will be called [tracking].
